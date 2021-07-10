@@ -1,5 +1,11 @@
 import { useState } from "react"
 
+/* function tema(){
+    return (
+        <h1> Taller de Anthony Ortega</h1>
+    )
+}
+ */
 
 const Navbar = () => {
     const [user, setUser] = useState(null)
